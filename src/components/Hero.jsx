@@ -14,11 +14,11 @@ export default function Hero() {
             className="flex-1 text-center lg:text-left space-y-4 lg:space-y-6 max-w-2xl lg:max-w-none"
           >
             <h1 className="text-3xl sm:text-4xl lg:text-6xl font-bold text-white drop-shadow-lg font-pixel leading-tight">
-              Mushroom Legends
+            Mushroom Arena
             </h1>
             
             <p className="text-base sm:text-lg text-white font-pixel max-w-xl mx-auto lg:mx-0">
-              The First Retro Gaming Meme Token on the Blockchain
+            AI battle arena with mushroom warriors. Join rooms, fight opponents, earn rewards on Solana.
             </p>
             
             {/* Action Buttons */}
