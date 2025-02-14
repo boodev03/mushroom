@@ -6,32 +6,32 @@ const features = [
   {
     icon: FaRobot,
     title: "AI Battle Mechanics",
-    description: "Advanced AI-driven battle system for strategic gameplay"
+    description: "Strategic gameplay powered by advanced AI systems"
   },
   {
     icon: FaUsers,
-    title: "Real-time PvP",
-    description: "Instant matchmaking for player-vs-player battles"
+    title: "Real-time PvP", 
+    description: "Instant matchmaking for exciting player battles"
   },
   {
     icon: FaGem,
     title: "NFT Warriors",
-    description: "Unique mushroom warriors with distinct traits as NFTs"
+    description: "Unique squirrel warriors with distinct traits"
   },
   {
     icon: FaBolt,
     title: "Quick Battles",
-    description: "Fast-paced 3-5 minute battles for instant action"
+    description: "Fast-paced 3-5 minute action-packed matches"
   },
   {
     icon: FaCoins,
     title: "Low Fees",
-    description: "Minimal transaction fees powered by Solana"
+    description: "Minimal transaction costs on Solana"
   },
   {
     icon: FaTrophy,
     title: "Earn Rewards",
-    description: "Join battles and earn valuable rewards"
+    description: "Win battles to earn valuable rewards"
   }
 ];
 

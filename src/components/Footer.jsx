@@ -14,7 +14,7 @@ export default function Footer() {
             <FaTelegramPlane size={24} />
             <span className="font-pixel text-sm">Join Telegram</span>
           </a>
-          <a href="https://x.com/mushroomarena" 
+          <a href="https://x.com/squirrelbattle_" 
              target="_blank" 
              rel="noopener noreferrer"
              className="flex items-center gap-2 hover:text-gray-400 transition-colors">
@@ -23,7 +23,7 @@ export default function Footer() {
           </a>
         </div>
         <div className="text-center mt-8 text-sm text-gray-400">
-          © {currentYear} Mushroom Arena. All rights reserved.
+          © {currentYear}  Squirrel Battle. All rights reserved.
         </div>
       </div>
     </footer>

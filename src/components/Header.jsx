@@ -33,7 +33,7 @@ export default function Header() {
             className="flex items-center gap-2 text-xl font-pixel text-green-400 cursor-pointer"
           >
             <FaGamepad className="text-2xl" />
-            <span>Mushroom Arena</span>
+            <span>Squirrel Battle</span>
           </motion.div>
           
           {/* Desktop Navigation */}

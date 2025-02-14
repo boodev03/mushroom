@@ -11,8 +11,8 @@ const gameplayFeatures = [
   },
   {
     icon: FaShieldAlt,
-    title: "Warrior Selection",
-    description: "Choose and customize your mushroom warrior"
+    title: "Warrior Selection", 
+    description: "Choose and customize your squirrel warrior"
   },
   {
     icon: FaStore,

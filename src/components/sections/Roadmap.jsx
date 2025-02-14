@@ -8,12 +8,12 @@ const phases = [
     timeline: "Q1 2025",
     items: [
       "Launch playable demo version",
-      "Wallet connection",
+      "Wallet connection", 
       "Basic battle rooms",
       "Simple AI battle mechanics",
       "Points earning system",
-      "Basic mushroom warriors",
-      "Launch $MRAR token on Pump.fun",
+      "Basic squirrel warriors",
+      "Launch $SQBT token on Pump.fun",
       "Community building & social media presence"
     ]
   },

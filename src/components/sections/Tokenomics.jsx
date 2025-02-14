@@ -6,13 +6,13 @@ import FeatureCard from '../ui/FeatureCard';
 const tokenFeatures = [
   {
     icon: FaCoins,
-    title: "$MRAR Token",
+    title: "$SQBT Token",
     description: "Main utility token for the ecosystem"
   },
   {
     icon: FaStore,
     title: "Marketplace",
-    description: "Buy & sell items using $MRAR"
+    description: "Buy & sell items using $SQBT"
   },
   {
     icon: FaChartLine,

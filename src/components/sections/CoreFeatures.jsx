@@ -17,7 +17,7 @@ const features = [
   {
     icon: FaGem,
     title: "NFT Warriors",
-    description: "Unique mushroom warriors with distinct traits"
+    description: "Unique squirrel warriors with distinct traits"
   },
   {
     icon: FaBolt,

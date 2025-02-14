@@ -15,7 +15,7 @@ export default function Features() {
             Core Features
           </h2>
           <p className="text-gray-300 max-w-2xl mx-auto">
-            Experience the next generation of blockchain gaming with our innovative features
+          Experience next-gen blockchain gaming with innovative features
           </p>
         </motion.div>
 

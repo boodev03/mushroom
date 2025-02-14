@@ -14,17 +14,17 @@ export default function Hero() {
             className="flex-1 text-center lg:text-left space-y-4 lg:space-y-6 max-w-2xl lg:max-w-none"
           >
             <h1 className="text-3xl sm:text-4xl lg:text-6xl font-bold text-white drop-shadow-lg font-pixel leading-tight">
-            Mushroom Arena
+            Squirrel Battle
             </h1>
             
             <p className="text-base sm:text-lg text-white font-pixel max-w-xl mx-auto lg:mx-0">
-            AI battle arena with mushroom warriors. Join rooms, fight opponents, earn rewards on Solana.
+            I battle arena with squirrel warriors. Join rooms, fight opponents, earn rewards on Solana.
             </p>
             
             {/* Action Buttons */}
             <div className="flex flex-col sm:flex-row gap-3 sm:gap-4 justify-center lg:justify-start">
               <a
-                href="https://app.mushroomarena.fun/"
+                href="https://app.https://squirrelbattle.fun/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="px-4 sm:px-6 py-2 sm:py-3 bg-red-500 hover:bg-red-600 text-white rounded-xl font-pixel transition-all text-sm sm:text-base inline-flex items-center justify-center"
@@ -32,7 +32,7 @@ export default function Hero() {
                 Play Now
               </a>
               <a href='https://pump.fun/board' className="block px-4 sm:px-6 py-2 sm:py-3 bg-white/90 hover:bg-white text-red-500 rounded-xl font-pixel transition-all text-sm sm:text-base">
-                Buy $MRAR
+                Buy $SQBT
               </a>
             </div>
           </motion.div>

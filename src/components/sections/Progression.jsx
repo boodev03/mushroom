@@ -11,7 +11,7 @@ const progressionFeatures = [
   },
   {
     icon: FaBolt,
-    title: "Stat Upgrades",
+    title: "Stat Upgrades", 
     description: "Enhance your warrior's capabilities"
   },
   {
@@ -35,7 +35,7 @@ export default function Progression() {
           whileInView={{ opacity: 1, y: 0 }}
           className="text-center mb-16"
         >
-          <h2 className="text-4xl font-pixel text-green-400 mb-4">🌱 Progression</h2>
+          <h2 className="text-4xl font-pixel text-green-400 mb-4">⚡ Progression</h2>
           <p className="text-gray-300 max-w-2xl mx-auto">
             Level up your warriors and unlock new abilities
           </p>
