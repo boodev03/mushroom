@@ -34,7 +34,7 @@ export default function Character() {
         {/* Video */}
         <video 
           ref={videoRef}
-          src="https://cdn-cf-east.streamable.com/video/mp4/myw49n.mp4?Expires=1736248293184&Key-Pair-Id=APKAIEYUVEN4EVB2OKEQ&Signature=mO0aDHoQrr~7XJUBcf09RLpV2IIoWvC1kEU2qAlF~~rLCXFCuUN4Ovmyopar-qlgUTcUntvgTkYlb~f0w6gQNu-yvViEc3zdVqCz5C3DU5z4fmcMb9NKV7zq~LywBlt9BPUpNjbmeHCzVT5ydaJANpUSkj1hx7lzu67VvWqlAzPuAKX2ltem2ml84kVlclwNepNT9znVC6Oo9XuGbly~k0HMYG0x7FytLnEIYL0hKhduJ3tMzjB4UZjLU46Cu7qgwVR9wsk44SwUWdoT5nL2pNCe7AvFU-5b3OPM1lWE8gaLm~XqyybJLjnaady4xjruWTcqJoPz2hqkhNPsAMWCiQ__"
+          src="https://litter.catbox.moe/uad2w5.mp4"
           loop
           playsInline
           className="absolute top-0 left-0 w-full h-full object-cover rounded-2xl"
