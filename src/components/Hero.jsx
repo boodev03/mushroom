@@ -24,7 +24,7 @@ export default function Hero() {
             {/* Action Buttons */}
             <div className="flex flex-col sm:flex-row gap-3 sm:gap-4 justify-center lg:justify-start">
               <a
-                href="https://app.https://squirrelbattle.fun/"
+                href="https://app.squirrelbattle.fun/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="px-4 sm:px-6 py-2 sm:py-3 bg-red-500 hover:bg-red-600 text-white rounded-xl font-pixel transition-all text-sm sm:text-base inline-flex items-center justify-center"
